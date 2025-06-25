@@ -1,5 +1,5 @@
-# Lottery Prediction Service
-https://workforakng.github.io/prediction/
+# Lottery Prediction Service Live
+# https://workforakng.github.io/prediction/
 This repository contains the backend (Flask API) and worker service for a lottery prediction application. It operates continuously to provide updated predictions.
 Its files are private(Will update soon)
 
